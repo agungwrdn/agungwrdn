@@ -1,6 +1,6 @@
 # Hi there, I'm a DevOps & Database Specialist! 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7F7F7&background=00000000&center=false&vCenter=false&width=435&lines=Technician+ERP+System+%26+DBA;Building+High+Availability+Infrastructure;PostgreSQL+%7C+Kubernetes+%7C+Go+%7C+Odoo;Architecting+Enterprise+Solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&background=00000000&center=false&vCenter=false&width=435&lines=Technician+ERP+System+%26+DBA;Building+High+Availability+Infrastructure;PostgreSQL+%7C+Kubernetes+%7C+Go+%7C+Odoo;Architecting+Enterprise+Solutions)](https://git.io/typing-svg)
 
 I am a passionate **Technician ERP System & DBA** with a strong focus on **DevOps** practices. My daily driver involves managing complex database architectures (PostgreSQL, Patroni, HAProxy) and orchestrating containerized applications using Kubernetes & Rancher.
 
