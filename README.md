@@ -52,17 +52,6 @@ I am currently developing a suite of interconnected enterprise tools:
 
 ---
 
-### 📊 GitHub Analytics
-
-<div align="center">
-  <a href="https://github.com/agungwrdn">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=agungwrdn&show_icons=true&line_height=27&count_private=true&title_color=00ADD8&icon_color=00ADD8&bg_color=0d1117&text_color=ffffff&hide_border=true" alt="User's GitHub Stats" />
-  </a>
-  <a href="https://github.com/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=compact&text_color=ffffff&title_color=00ADD8&bg_color=0d1117&hide_border=true&langs_count=6" alt="Top Langs" />
-  </a>
-</div>
-
 <br/>
 
 <div align="center">
