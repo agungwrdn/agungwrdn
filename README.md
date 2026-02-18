@@ -50,16 +50,3 @@ I am currently developing a suite of interconnected enterprise tools:
 * **Database Encryption:** Managing data security with advanced encryption techniques.
 * **Educational Game Dev:** Creating a Montessori-style game for early childhood education using **Godot Engine**.
 
----
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D&ring=00ADD8&fire=00ADD8&currStreakLabel=00ADD8" alt="GitHub Streak" />
-</div>
----
-<div align="center">
-  <a href="https://linkedin.com/in/agungwrdn" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</div>
