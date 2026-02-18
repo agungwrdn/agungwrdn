@@ -1,10 +1,10 @@
 # Hi there, I'm a DevOps & Database Specialist! 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7F7F7&background=00000000&center=false&vCenter=false&width=435&lines=Technician+ERP+System+%26+DBA;Building+High+Availability+Infrastructure;PostgreSQL+%7C+Kubernetes+%7C+Go+%7C+Odoo;Currently+building+the+AGURA+Ecosystem)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7F7F7&background=00000000&center=false&vCenter=false&width=435&lines=Technician+ERP+System+%26+DBA;Building+High+Availability+Infrastructure;PostgreSQL+%7C+Kubernetes+%7C+Go+%7C+Odoo;Architecting+Enterprise+Solutions)](https://git.io/typing-svg)
 
 I am a passionate **Technician ERP System & DBA** with a strong focus on **DevOps** practices. My daily driver involves managing complex database architectures (PostgreSQL, Patroni, HAProxy) and orchestrating containerized applications using Kubernetes & Rancher.
 
-Currently, I'm architecting **AGURA**, a comprehensive ecosystem of IT solutions including Identity Management, Secure File Delivery, and Omnichannel Helpdesk systems.
+Currently, I'm architecting a comprehensive ecosystem of enterprise IT solutions, focusing on security, identity management, and automation.
 
 ---
 
@@ -40,15 +40,15 @@ Currently, I'm architecting **AGURA**, a comprehensive ecosystem of IT solutions
 
 ---
 
-### 🔭 Current Projects (The AGURA Ecosystem)
+### 🔭 Current Focus & Projects
 
 I am currently developing a suite of interconnected enterprise tools:
 
-* **IDENTIK:** Identity Management System powered by FusionAuth.
-* **VOID:** Secure file delivery platform.
-* **CHIP (Centralized Helpdesk Intelligence Platform):** Omnichannel helpdesk integrated with **Chaca** (Bot).
-* **ASGUARD:** Database encryption management.
-* **Montessori Game Project:** Developing an educational game for my child using **Godot Engine**.
+* **Identity Management System:** Implementing secure authentication flows using FusionAuth.
+* **Secure File Delivery:** Building a robust platform for encrypted file transfer.
+* **Omnichannel Helpdesk:** Developing a centralized support platform integrated with AI chatbots.
+* **Database Encryption:** Managing data security with advanced encryption techniques.
+* **Educational Game Dev:** Creating a Montessori-style game for early childhood education using **Godot Engine**.
 
 ---
 
@@ -68,15 +68,6 @@ I am currently developing a suite of interconnected enterprise tools:
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D&ring=00ADD8&fire=00ADD8&currStreakLabel=00ADD8" alt="GitHub Streak" />
 </div>
-
----
-
-### ⚡ Fun Facts
-- 👨‍💻 Integrating **Rust** for Format-Preserving Encryption (FPE) to replace legacy C libraries.
-- 🎮 Currently playing **"The Forge"** on Roblox.
-- 🎵 Coding soundtrack: **.Feast**.
-- 👶 Father to a toddler, building games to help them learn!
-
 ---
 <div align="center">
   <a href="https://linkedin.com/in/USERNAME" target="_blank">
