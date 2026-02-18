@@ -55,22 +55,22 @@ I am currently developing a suite of interconnected enterprise tools:
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <a href="https://github.com/USERNAME">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&line_height=27&count_private=true&title_color=00ADD8&icon_color=00ADD8&bg_color=0d1117&text_color=ffffff&hide_border=true" alt="User's GitHub Stats" />
+  <a href="https://github.com/agungwrdn">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=agungwrdn&show_icons=true&line_height=27&count_private=true&title_color=00ADD8&icon_color=00ADD8&bg_color=0d1117&text_color=ffffff&hide_border=true" alt="User's GitHub Stats" />
   </a>
-  <a href="https://github.com/USERNAME">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&text_color=ffffff&title_color=00ADD8&bg_color=0d1117&hide_border=true&langs_count=6" alt="Top Langs" />
+  <a href="https://github.com/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=compact&text_color=ffffff&title_color=00ADD8&bg_color=0d1117&hide_border=true&langs_count=6" alt="Top Langs" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D&ring=00ADD8&fire=00ADD8&currStreakLabel=00ADD8" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D&ring=00ADD8&fire=00ADD8&currStreakLabel=00ADD8" alt="GitHub Streak" />
 </div>
 ---
 <div align="center">
-  <a href="https://linkedin.com/in/USERNAME" target="_blank">
+  <a href="https://linkedin.com/in/agungwrdn" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </div>
